@@ -5,3 +5,5 @@
 
 1. Enter your username.  This is your Initials followed by your six-digit employee identification number (e.g., AB012345)
 2. Enter your password and click **Login**
+
+![](/images/dm_flower.jpgeg)
